@@ -38,17 +38,17 @@ Instructions to modify the code to play the stream of your choice:
 STREAMS = [
   {
     "token": '1',
-    "url": 'https://www.radiokrishna.com/RKC-Terni-HQ.m3u',
+    "url": 'https://streamer-uk.rinse.fm:8443/stream',
     "metadata": {
-      "title": 'Dabble Radio',
-      "subtitle": 'A subtitle for dabble radio',
+      "title": 'RinseFM UK',
+      "subtitle": 'RinseFM UK Stream',
       "art": {
         "sources": [
           {
             "contentDescription": 'example image',
-            "url": 'https://s3.amazonaws.com/cdn.dabblelab.com/img/audiostream-starter-512x512.png',
-            "widthPixels": 512,
-            "heightPixels": 512
+            "url": 'https://i1.sndcdn.com/artworks-Xtaig5QxYsyNzXBN-aCOOsg-t500x500.jpg',
+            "widthPixels": 500,
+            "heightPixels": 500
           }
         ]
       },
@@ -56,7 +56,7 @@ STREAMS = [
         "sources": [
           {
             "contentDescription": 'example image',
-            "url": 'https://s3.amazonaws.com/cdn.dabblelab.com/img/wayfarer-on-beach-1200x800.png',
+            "url": 'http://placekitten.com/1200/800',
             "widthPixels": 1200,
             "heightPixels": 800
           }

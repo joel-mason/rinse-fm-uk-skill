@@ -1,1 +1,1 @@
-# 3-python-alexa-audio-streaming-example-skill
+# Lambda Skill to Stream RinseFM UK
